@@ -41,3 +41,4 @@ Para gerar os artefatos do relatório:
 python gerar_tabelas_iteracoes_latex.py
 python gerar_relatorio_pdf.py
 ```
+# Trabalho_C-lculo_Num-rico
